@@ -3,8 +3,7 @@
 <div align=center >LEE JAEHEE 👋</div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwogmlzz&show_icons=true&theme=radical)
-![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
+
 
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
