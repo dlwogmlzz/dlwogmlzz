@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20JAEHEE&fontSize=90" />
 <div align=center >LEE JAEHEE 👋</div>
 
+[![JaeHee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwogmlzz)](https://github.com/dlwogmlzz/github-readme-stats)
 
 
 
