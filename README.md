@@ -4,12 +4,13 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwogmlzz&show_icons=true&theme=radical)
+![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
 
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)">
-x
+
 
 <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
