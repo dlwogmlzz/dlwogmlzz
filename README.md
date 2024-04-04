@@ -1,9 +1,11 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20JAEHEE&fontSize=90" />
+<div align=center >LEE JAEHEE 👋</div>
 
-# LEE JAEHEE 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlwogmlzz&show_icons=true&theme=radical)
+
+
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)">
